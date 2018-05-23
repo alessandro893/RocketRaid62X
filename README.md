@@ -1,5 +1,5 @@
 # RocketRaid62X
-RocketRaid 620-622 driver for Mac OS X
+HighPoint RocketRaid 620-622 driver for Mac OS X
 
 Installation:
 Copy files to "/Library/Extensions/"
